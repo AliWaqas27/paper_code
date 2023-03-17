@@ -1,0 +1,5 @@
+AspectJ : https://figshare.com/articles/dataset/AspectJ_Extracted_JavaFiles_Based_On_Commits/6998558
+JDT : https://figshare.com/articles/dataset/JDT_Extracted_Java_Files_Based_On_Commits/6998561
+Swt : https://figshare.com/articles/dataset/SWT_Extracted_Java_Files_Based_On_Commits/6998606
+Tomcat : https://figshare.com/articles/dataset/Tomcat_Extracted_Java_Files_Based_On_Commits/6998594
+Zxing : http://files.figshare.com/1656551/dataset.zip
